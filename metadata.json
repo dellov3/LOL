@@ -1,0 +1,5 @@
+{
+  "name": "Retro LoL Randomizer",
+  "description": "A retro-styled League of Legends team generator that creates random team compositions based on meta roles using Data Dragon API and analyzes them with Gemini.",
+  "requestFramePermissions": []
+}
