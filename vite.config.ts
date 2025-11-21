@@ -1,13 +1,1 @@
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
-
-export default defineConfig({
-  plugins: [react()],
-  build: {
-    outDir: 'dist',
-    emptyOutDir: true,
-  },
-  define: {
-    'process.env': {} 
-  }
-});
+// Configuration moved to vite.config.js to prevent TS loading errors in production environment

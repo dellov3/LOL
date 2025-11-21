@@ -4,9 +4,9 @@
   "description": "League of Legends Team Randomizer on ICP",
   "type": "module",
   "scripts": {
-    "dev": "./node_modules/.bin/vite",
-    "build": "./node_modules/.bin/vite build",
-    "preview": "./node_modules/.bin/vite preview"
+    "dev": "vite",
+    "build": "npx vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.2.0",
