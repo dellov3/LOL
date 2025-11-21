@@ -1,0 +1,19 @@
+{
+  "canisters": {
+    "retro_lol_randomizer": {
+      "type": "assets",
+      "source": ["dist"],
+      "frontend": {
+        "entrypoint": "dist/index.html"
+      }
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
