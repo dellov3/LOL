@@ -1,7 +1,7 @@
 {
   "name": "retro-lol-randomizer",
   "version": "1.0.0",
-  "description": "League of Legends Team Randomizer",
+  "description": "League of Legends Team Randomizer on ICP",
   "type": "module",
   "scripts": {
     "dev": "./node_modules/.bin/vite",
@@ -11,7 +11,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@google/genai": "^1.30.0",
+    "@google/genai": "^0.1.1",
     "@vitejs/plugin-react": "^4.2.1",
     "typescript": "^5.3.3",
     "vite": "^5.0.10",
